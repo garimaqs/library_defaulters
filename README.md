@@ -20,8 +20,13 @@ This repository contains code for analysis and prediction of default (not return
 
 ## Overview of Files
 
-| File                     | Directory                     | Description                                                  | Dependencies                                                    |
-| :---------------------------- | :-------------------- | :----------------------------------------------------------- | :---------------------------- |
-0_eda_libraries.ipynb | ./eda | Cleaning and exploratory analysis of the libraries dataset | None |
-1_eda_checkouts.ipynb | ./eda | Cleaning and exploratory analysis of the checkouts dataset | None | 
-library_map.html | ./figures | Figure showing location of the 18 libraries on the map of Portland OR | ./eda/0_eda_libraries.ipynb |
+### eda 
+| File                               | Description                                                      | Dependencies             |
+| :----------------------------  | :----------------------------------------------------------- | :---------------------------- |
+0_eda_libraries.ipynb  | Cleaning and exploratory analysis of the libraries dataset | None |
+1_eda_checkouts.ipynb | Cleaning and exploratory analysis of the checkouts dataset | None | 
+
+### figures
+| File                               | Description                                                      | Dependencies             |
+| :----------------------------  | :----------------------------------------------------------- | :---------------------------- |
+library_map.html  | Figure showing location of the 18 libraries on the map of Portland OR | ./eda/0_eda_libraries.ipynb |
