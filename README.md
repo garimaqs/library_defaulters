@@ -61,7 +61,6 @@ I think a lot of the patterns of when people return books once they've already m
 - how long do patrons keep a book for after they've missed the due date? 
 - what days of the week are "past due date" books often returned? 
 - what is the relationship with number of pages and days a book is borrowed for? Is there a threshold level such that books shorter than that are always returned on time? 
-- 
 
 
 ## Additional Exercises
