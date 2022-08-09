@@ -54,6 +54,7 @@ I would make two primary recommendations:
 
 - to install drop-boxes, especially further away from the library, that patrons can drop the books they're returning to. This would reduce the distance between patron address and "return point" 
 - to allow for extended return-windows around holidays. Since holidays appear to be an important feature in the data, my ananlysis is that peple are preoccupied (traveling, hosting family etc) during holidays leading to missing the due dates. Once the due dates are missed, they might slip into the "it's late anyway" thought process, causing further delays-- this is something I'd like to test since we have data on duration borrowed and actual return dates.
+---
 
 **What other stories can you tell with this data?**
 I think a lot of the patterns of when people return books once they've already missed the due date can be interesting to tease out, as well as informative about what are optimal conditions for returning books. For example: 
